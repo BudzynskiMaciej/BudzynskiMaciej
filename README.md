@@ -73,8 +73,12 @@
 
 
 ## Recent Blog Posts (Polish Language) 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [O mnie](https://blog.budzynskimaciej.pl/about/)
+- [Jak uzyskać dostęp do admina na Linuxie wykorzystując Dockera?](https://blog.budzynskimaciej.pl/post/docker-sudo-tricks/)
+- [Projekty](https://blog.budzynskimaciej.pl/projects/)
+- [Czym jest Blockchain?](https://blog.budzynskimaciej.pl/post/blockchain-p1/)
+- [Forestry i Hugo](https://blog.budzynskimaciej.pl/post/forestry-and-hugo/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
