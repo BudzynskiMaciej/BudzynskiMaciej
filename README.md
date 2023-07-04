@@ -100,7 +100,7 @@
 <a href="https://twitter.com/BudzynskiMaciek" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://mastodon.social/@BudzynskiMaciej" target="_blank">
+<a href="https://mastodon.social/@BudzynskiMaciej" target="_blank" rel="me">
 <img src=https://img.shields.io/badge/mastodon-349eeb.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/BudzynskiMaciej" target="_blank">
