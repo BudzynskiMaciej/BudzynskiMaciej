@@ -74,11 +74,11 @@
 
 ## Recent Blog Posts (Polish Language) 
 <!-- BLOG-POST-LIST:START -->
+- [Odświeżenie i aktualizacja strony](https://blog.budzynskimaciej.pl/post/site-update-and-changes/)
 - [O mnie](https://blog.budzynskimaciej.pl/about/)
 - [Jak uzyskać dostęp do admina na Linuxie wykorzystując Dockera?](https://blog.budzynskimaciej.pl/post/docker-sudo-tricks/)
 - [Projekty](https://blog.budzynskimaciej.pl/projects/)
 - [Czym jest Blockchain?](https://blog.budzynskimaciej.pl/post/blockchain-p1/)
-- [Forestry i Hugo](https://blog.budzynskimaciej.pl/post/forestry-and-hugo/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
