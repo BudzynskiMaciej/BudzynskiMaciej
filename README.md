@@ -70,11 +70,11 @@
 
 ## Recent Blog Posts (Polish Language) 
 <!-- BLOG-POST-LIST:START -->
-- [AI, LocalLLM i DeepSeek. O co chodzi i jak zanurzyć się w świecie LLM?](https://blog.budzynskimaciej.pl/post/ai-and-llms/)
-- [Odświeżenie i aktualizacja strony](https://blog.budzynskimaciej.pl/post/site-update-and-changes/)
-- [O mnie](https://blog.budzynskimaciej.pl/about/)
-- [Jak uzyskać dostęp do admina na Linuxie wykorzystując Dockera?](https://blog.budzynskimaciej.pl/post/docker-sudo-tricks/)
-- [Projekty](https://blog.budzynskimaciej.pl/projects/)
+- [AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?](https://blog.budzynskimaciej.pl/en/post/ai-and-llms/)
+- [Site Refresh and Update](https://blog.budzynskimaciej.pl/en/post/site-update-and-changes/)
+- [About](https://blog.budzynskimaciej.pl/en/about/)
+- [How to gain admin access on Linux using Docker?](https://blog.budzynskimaciej.pl/en/post/docker-sudo-tricks/)
+- [Projects](https://blog.budzynskimaciej.pl/en/projects/)
 <!-- BLOG-POST-LIST:END -->  
 
 <hr/>
