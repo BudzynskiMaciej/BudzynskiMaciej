@@ -37,7 +37,10 @@
 <table><tr><td valign="top" width="100%">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>
+<a href="https://www.go.dev/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="70" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
+<a href="https://www.typescript.com/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a>
+<a href="https://www.c-language.org/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="70" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="70" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 14px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="70" /></a>
@@ -68,7 +71,7 @@
 --->
 
 
-## Recent Blog Posts (Polish Language) 
+## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?](https://blog.budzynskimaciej.pl/en/post/ai-and-llms/)
 - [Site Refresh and Update](https://blog.budzynskimaciej.pl/en/post/site-update-and-changes/)
