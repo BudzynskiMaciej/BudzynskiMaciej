@@ -84,6 +84,8 @@
 
 
 ## Github Stats
+
+### All Time
 <div align="center">
   <table>
     <tr>
